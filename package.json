@@ -1,0 +1,18 @@
+{
+  "name": "supercharging-webpages-with-pjax-demo",
+  "version": "1.0.0",
+  "description": "Demo of supercharging traditional web-pages with PJAX",
+  "author": "Mikko Tikkanen <mikko.tikkanen@gmail.com>",
+  "main": "app.js",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
