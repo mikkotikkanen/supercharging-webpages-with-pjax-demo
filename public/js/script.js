@@ -1,7 +1,7 @@
 $(function() {
   
   // Trigger alert when this file is executed
-  alert('Javascript executed.');
+  console.log('Main js file executed.');
   
   // Setup PJAX
   //*
